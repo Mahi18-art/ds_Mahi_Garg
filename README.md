@@ -1,4 +1,4 @@
-## Google Colab Notebooks
+## Google Colab Notebook
 
 - Notebook 1 :  
   [https://colab.research.google.com/xxxxxx](https://colab.research.google.com/drive/15TzdlKXCepBwU414KJfpaH49lfaDL7fE?usp=sharing)
